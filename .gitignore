@@ -1,1 +1,24 @@
+# The Obsessed v1.0.0
+
+Initial release of **The Obsessed Mod** for Minecraft Forge 1.21.x
+
+## Features
+
+- Obsessed mob (stalker)  
+- Hug mechanic  
+- Vanish when looked at  
+- Kills mobs that target the player  
+- GeckoLib 3D model & animation support  
+- Creepy sound effects  
+
+## Installation
+
+1. Install Minecraft Forge 1.21.x  
+2. Download the JAR below  
+3. Place it in your `mods` folder  
+4. Launch Minecraft with Forge
+
+## Assets
+
+- `the_obsessed-1.0.0.jar` → Drop into `mods` folder
 
